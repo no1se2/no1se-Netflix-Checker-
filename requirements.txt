@@ -1,0 +1,5 @@
+colorama
+fake_useragent
+mechanize
+urllib3
+platform
